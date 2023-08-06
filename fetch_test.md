@@ -4,4 +4,5 @@ wow can I really fetch and conflict?
 from_main:
 ### a file for testing fetching
 
-lets see if there is width: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbb
+# Let's see if 100-char limit converts to full-line:
+----------------------------------------------------------------------------------------------------
