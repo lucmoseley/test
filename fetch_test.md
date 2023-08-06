@@ -13,3 +13,9 @@ from_main:
 traditional break:
 
 ---
+
+# Test heading breaks:
+
+## Level 2
+
+### Level 3
